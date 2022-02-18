@@ -1,6 +1,10 @@
 # easy_td
 A python client for the td api.  Uses a declarative functional format with rate limit protection
 
+> Note: endpoint names are conventional from td's rest api
+
+>  [td] -> [endpoint] -> [get/snapshot]
+
 # Example Usage 
 ```
 # setting config variables 
