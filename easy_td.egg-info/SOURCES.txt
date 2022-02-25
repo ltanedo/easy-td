@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+easy_td/__init__.py
+easy_td.egg-info/PKG-INFO
+easy_td.egg-info/SOURCES.txt
+easy_td.egg-info/dependency_links.txt
+easy_td.egg-info/top_level.txt
