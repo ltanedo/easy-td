@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: easy-td
-Version: 0.1
+Version: 0.2
 Summary: A declarative library for making the TD Ameritrade API more accessible
 Home-page: https://github.com/ltanedo/easy-td.git
-Download-URL: https://github.com/ltanedo/easy-td/archive/refs/tags/v_01.tar.gz
+Download-URL: https://github.com/ltanedo/easy-td/archive/refs/tags/v_02.tar.gz
 Author: lloydtan
 Author-email: lloydtan@buffalo.edu
 License: MIT
